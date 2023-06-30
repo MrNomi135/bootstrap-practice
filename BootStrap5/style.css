@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    width: 10000px!important;
+}
+p{
+    font-size: 12px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bg-primary {
+    background: aqua!important;
+}
+.form-control{
+    height: 36px;
+    background: #fff;
+    color: rgba(0, 0, 0,0.1);
+    font-size: 14px;
+    border-radius: 2px;
+    box-shadow: none !important;
+    border: 1px solid rgba(0, 0, 0,0.1);
+
+}
+.text .form-control{
+    border: none;
+    border-bottom: 3px solid black;
+}
+.btn{
+    background-color: aqua;
+    border-color: aquamarine;
+    color: #fff;
+    width: 100px;
+    border-radius: 0 !important;
+
+}
+.bi{
+    font-size: 50px;
+}

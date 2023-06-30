@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Paprika&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+body{
+    font-family: 'Paprika', cursive;
+}
+ /* navbar */
+.me-2 {
+    margin-right: .5rem!important;
+    border-radius: 20px;
+}
+.navbar-expand-lg{
+    background-color: cadetblue;
+}
+.btn-light{
+    border-radius: 25px;
+}
+.navbar-brand{
+    font-size: 27px;
+    color: aliceblue;
+
+}
+
+.navbar-nav .nav-link  .nav-link.show .nav-item {
+     color: white;  
+     background-color: black;
+    
+}
+/* section */
+
+.carousel{
+    position: relative;
+    margin-top: 67px;
+}
+#about{
+    text-align: justify;
+}
+#about h3{
+    text-align: center;
+    margin-top: 20px;
+}
+#about p{
+    padding: 10px 10px;
+font-size: 15px;}
+
+#menu h3{
+    text-align: center;
+    margin-top: 20px;}
